@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshith!
 
-<!--
-**punnaharshith7-dev/punnaharshith7-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Learning Java, Data Structures & Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in Software Development and AI
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming
+- Java
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+
+### Development
+- Git
+- GitHub
+- VS Code
+- MySQL
+
+---
+
+## 🚀 Projects
+
+### Online Exam Proctoring System
+AI-based online examination proctoring system using computer vision.
+
+### Registration Form
+A responsive HTML registration form built while learning web development.
+
+---
+
+## 📚 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Full Stack Development
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+
+Become a strong software developer and build real-world projects.
